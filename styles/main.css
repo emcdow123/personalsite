@@ -1,0 +1,65 @@
+#header {
+	text-align: right;
+	font-size: 48px;
+	font-family: 'Slabo 27px', serif;
+	float: right;
+}
+
+#redname {
+	color: red;
+}
+
+nav {
+	height: 100%;
+	width: 100px;
+	position: absolute;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000;
+}
+
+nav div {
+	height: 20%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+nav div img {
+	width: 65px;
+}
+
+.navitem {
+	display: table;
+	width: 100%;
+}
+
+.innernavitem {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.mainwrapper {
+	float:right;
+}
+
+.home {
+	background-color: #550000;
+}
+
+.about {
+	background-color: #880000;
+}
+
+.work {
+	background-color: #AA0000;
+}
+
+.news {
+	background-color: #CC0000;
+}
+
+.contact {
+	background-color: #EE0000;
+}
