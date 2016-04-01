@@ -2,7 +2,6 @@
 	text-align: right;
 	font-size: 48px;
 	font-family: 'Slabo 27px', serif;
-	float: right;
 }
 
 #redname {
@@ -42,6 +41,7 @@ nav div img {
 
 .mainwrapper {
 	float:right;
+	position: relative;
 }
 
 .home {
